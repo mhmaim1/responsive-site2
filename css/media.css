@@ -1,0 +1,190 @@
+/*===Extra Small Device*/
+/*===Extra Small Device*/
+/*===Extra Small Device*/
+/*===Extra Small Device*/
+/*===Responsive for "Extra Small" Device*/
+@media(max-width:575px){
+    header .logo img {
+        padding-top: 10px;
+        width: 12%;
+    }
+    header .logo span {
+        padding-left: 5px;
+        font-size: 11px;
+        line-height: 75px;
+
+    }
+    header .number p {
+        font-size: 18px;
+        line-height: 15px;
+        text-align: end;
+    }
+   
+    .main_menu ul li a {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 0 1px !important;
+    }
+    #banner {
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    .banner_text h2 {
+        font-size: 22px;;
+    }
+    .banner_text h1 {
+        font-size: 28px;
+        padding-bottom: 18px;
+    }
+    .banner_text p {
+        padding-bottom: 18px;
+        font-size: 11px;
+        padding-right: 85px;
+    }
+    .banner_btn a {
+        font-size: 12px;
+        padding: 5px 10px; 
+        border: 1px solid #92c7a3; 
+    }
+    .banner_sub_image img {
+        position: sticky;
+        width: 35%;
+    }
+    .service {
+        margin-bottom: 15px;
+    }
+    .service h3 {
+        font-size: 18px;
+        padding-bottom: 26px;
+        padding-top: 10px;
+    }
+    .service p {
+        padding-top: 18px;
+        line-height: 20px;
+        font-size: 12px;
+        padding-bottom: 8px;
+        margin-bottom: 0;
+    }
+    #notice_and_featured_video {
+        padding: 20px 0;
+    }
+    .notice_board{
+        margin-bottom: 10px;
+    }
+    .notice_board_text h2 {
+        padding-bottom: 5px;
+        font-size: 18px;
+    }
+    .notice_board_text ul {
+        padding-top: 25px;
+    }
+    .notice_board_text ul li {
+        padding: 10px;
+        font-size: 12px;
+    } 
+    .notice_board_text ul li i {
+        font-size: 24px;
+    }
+    .notice_board_text .view_all a {
+        font-size: 12px;
+    }
+    .featured_video img {
+        padding-top: 25px;
+        padding-left: 0px;
+    }
+    #events_service_gallery {
+        padding-top: 35px;
+        padding-bottom: 30px;
+    }
+    .events{
+        padding-bottom: 15px;
+    }
+    .events h2 {
+        padding-bottom: 5px;
+        font-size: 22.51px;
+    }
+    .events h4 {
+        padding-top: 14px;
+        padding-bottom: 6px;
+        font-size: 15px;
+
+    }
+    .events .event_pragraph1 p {
+        font-size: 11px;
+        padding-bottom: 5px;
+    }
+    .event_pragraph2 p {
+        padding-bottom: 0;
+        font-size: 11px;
+    }
+    #events_service_gallery .view_all i {
+        padding-top: 0;
+        font-size: 10px;
+        padding-right: 5px;
+    }
+    #events_service_gallery .view_all a {
+        padding-top: 0;
+        font-size: 11px;
+
+    }
+    .medical_service h2 {
+        padding-bottom: 5px;
+        font-size: 22.51px;e;
+    }
+    .medical_service ul {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .medical_service ul li {
+        padding: 5px 0;
+        font-size: 12px;
+    }
+    .medical_service{
+        padding-bottom: 15px;
+    }
+    .gallery h2 {
+        padding-bottom: 5px;
+        font-size: 22.51px;e;
+    }
+    .gallery_section {
+        padding-top: 15px;
+    }
+    #doctor .doctor_header_text h2 {
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+    .doctors_profile {
+        padding-top: 20px;
+        padding-bottom: 0px
+    }
+    .about_contact_header_text img{
+        width: 12%;
+    }
+    .about_contact_header_text {
+        padding-bottom: 22px;
+    }
+    .about_contact_header_text span {
+        font-size: 12px;
+        padding-left: 5px;
+    }
+    .text_section h3 {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    .text_section ul li {
+        padding: 2px 0;
+    }
+    .text_section ul li a {
+        font-size: 11px;
+    }
+    .text_section{
+        padding-bottom: 10px;
+    }
+    #nav_service_training_contact {
+        padding: 5px 0 0px 0;
+    }
+    .footer_bottom p {
+        padding: 15px 0;
+        font-size: 10px;
+    }
+}
